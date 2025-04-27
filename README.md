@@ -29,4 +29,5 @@ This repository contains the design and schema for an e-commerce database. It in
 
 ---
 **Author**: Linus  
+**Group**: February_2025_-_Cohort_VII_Peer_to_peer_Learning._Group_647
 **Tools Used**: MySQL, Draw.io, GitHub
